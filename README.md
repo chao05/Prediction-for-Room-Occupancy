@@ -3,4 +3,4 @@ This project is about predicting room occupancy from given six features, which a
 The dataset is from UCI repository. And the dataset link is shown here.
 https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+
 
-A separate 'testing dataset' is provided for validating the performance of model constructed in this notebook.
+A separate 'testing dataset' is provided for validating the performance of model constructed with 'training dataset'.
